@@ -1,0 +1,49 @@
+body
+{
+    margin: 30px;
+	background-color: #93EBF0;
+	border: 2px solid black;
+}
+
+.raz 
+{ 
+    -moz-appearance: textfield;
+}
+
+.raz::-webkit-inner-spin-button 
+{ 
+    display: none;
+}
+
+table
+{ 
+    margin-left: auto;
+	margin-right: auto;
+	border: 2px solid black;
+	border-radius: 10px;
+	background: #79D9C3;
+}
+
+form
+{
+	background-color:#8BF8C0;
+	border-style: none;
+    border-width: 10px;
+    text-align: center;
+}
+
+th
+{
+    text-align: center;
+}
+
+p
+{
+	font-weight: bold;
+}
+
+.righbut
+{
+    margin-top: 8px;
+    margin-left: 20px;
+}
